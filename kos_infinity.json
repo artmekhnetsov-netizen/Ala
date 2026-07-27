@@ -6,7 +6,7 @@
     "latitude": 43.409238,
     "longitude": 76.877319,
     "marker_size": 36,
-    "avg_monthly_m3": 1000000
+    "avg_monthly_m3": 1000000,
     "coord_quality": "user_provided"
   }
 ]
