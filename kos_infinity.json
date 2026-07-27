@@ -5,7 +5,7 @@
     "object_type": "wastewater_treatment_plant",
     "latitude": 43.409238,
     "longitude": 76.877319,
-    "avg_monthly_m3": 300000,
+    "avg_monthly_m3": 50000,
     "coord_quality": "user_provided"
   }
 ]
